@@ -23,3 +23,6 @@ to find out what to push (usually origin):
     
 to push the changes to github:
     git push origin master
+
+to get the status:
+    git status
