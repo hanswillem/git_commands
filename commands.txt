@@ -9,6 +9,12 @@ to config your credentials:
 to clone a repo to desktop (find the clone link on github):
     git clone https://github.com/hanswillem/somerepo.git
 
+to add a new file to the repo:
+    git add newfile.py
+
+to add all new files to the repo:
+    git add .
+    
 to commit all the changes:
     git commit -a -m "description of the changes"
 
